@@ -1,7 +1,7 @@
 body{
    background-color: #F6F7EB;
 }
-ol, ul,li {
+ol, ul, li ,summary{
    list-style-type: none;
    padding-left: 0px;
 }
